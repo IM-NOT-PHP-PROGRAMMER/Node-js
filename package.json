@@ -1,0 +1,19 @@
+
+{
+  "name": "node-js",
+  "version": "0.0.1",
+  "author": "me",
+  "description": "a simple web server",
+  "license": "MIT",
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+    "scripts": {
+    "start": "node app.js"
+  },
+    "dependencies": {
+    "express": "~3.4.7",
+    "json-lint": "~0.1.0"
+  }
+}
